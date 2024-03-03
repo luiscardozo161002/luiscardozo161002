@@ -63,6 +63,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg"></code>
   <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 </p>
 
  
