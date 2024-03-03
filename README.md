@@ -5,7 +5,7 @@
 * Soy estudiante de ingeniería en sistemas computacionales con habilidades destacadas en programación (web y móvil), administración de redes y bases de datos SQL.
 * Mi pasión se centra en el desarrollo web frontend, donde implemento tecnologías de alto rendimiento tanto en el backend como en el frontend.
 * Trabajo con diversos lenguajes de programación y sus frameworks, creando soluciones eficientes que ofrecen experiencias excepcionales sin aumentar los costos de hardware.
-* Tengo experiencia en el manejo de plataformas de cloud computing como Google Cloud y AWS, implementando servicios como EC2, RDS, sistemas operativos Windows y Linux, VPN, cotizaciones y VPC. Además, poseo habilidades en la implementación de arquitecturas de software, como cliente-servidor, y trabajo bajo el patrón de arquitectura MVC y sus variantes.
+* Tengo experiencia en el manejo de plataformas de cloud computing como Google Cloud y AWS, implementando servicios como EC2, RDS,S3, IAM, AWS KMS, EBS, sistemas operativos Windows y Linux, VPN, cotizaciones y VPC. Además, poseo habilidades en la implementación de arquitecturas de software, como cliente-servidor, y trabajo bajo el patrón de arquitectura MVC y sus variantes.
 
 <img src="https://i.ibb.co/C2QQ8jh/mrd3veloper.png" align="center" alt="berkeli header image">
 
