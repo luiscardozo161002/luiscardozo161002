@@ -7,8 +7,7 @@
 * Trabajo con diversos lenguajes de programación y sus frameworks, creando soluciones eficientes que ofrecen experiencias excepcionales sin aumentar los costos de hardware.
 * Tengo experiencia en el manejo de plataformas de cloud computing como Google Cloud y AWS, implementando servicios como EC2, RDS, sistemas operativos Windows y Linux, VPN, cotizaciones y VPC. Además, poseo habilidades en la implementación de arquitecturas de software, como cliente-servidor, y trabajo bajo el patrón de arquitectura MVC y sus variantes.
 
-![Logo](https://i.ibb.co/xhPRLNx/Captura-de-pantalla-2024-02-20-213426.png)
-
+<img src="https://i.ibb.co/xhPRLNx/Captura-de-pantalla-2024-02-20-213426.png" align="center" alt="berkeli header image">
 
 # 📍 Constantemente Aprendiendo
 
