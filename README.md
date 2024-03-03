@@ -9,10 +9,6 @@
 
 ![Logo](https://i.ibb.co/xhPRLNx/Captura-de-pantalla-2024-02-20-213426.png)
 
-<div style="text-align: center;">
-  ![Logo](https://i.ibb.co/xhPRLNx/Captura-de-pantalla-2024-02-20-213426.png)
-</div>
-
 
 # 📍 Constantemente Aprendiendo
 
