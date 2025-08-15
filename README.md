@@ -1,11 +1,8 @@
-# `¡Hola! ${👋🏼} Mi nombre es Luis Gerardo Cardozo Carranza ${📃📌}` 
+# ¡Hola! 👋 Soy Luis Gerardo Cardozo Carranza
 
-# 🤗 Acerca de mí :
-
-* Soy estudiante de ingeniería en sistemas computacionales con habilidades destacadas en programación (web), administración de redes y bases de datos SQL.
-* Mi pasión se centra en el desarrollo web frontend, donde implemento tecnologías de alto rendimiento tanto en el backend como en el frontend.
-* Trabajo con diversos lenguajes de programación y sus frameworks, creando soluciones eficientes que ofrecen experiencias excepcionales sin aumentar los costos de hardware.
-* Tengo experiencia en el manejo de plataformas de cloud computing como Google Cloud y AWS, implementando servicios como EC2, RDS,S3, IAM, AWS KMS, EBS, sistemas operativos Windows y Linux, VPN, cotizaciones y VPC. Además, poseo habilidades en la implementación de arquitecturas de software, como cliente-servidor, y trabajo bajo el patrón de arquitectura MVC y sus variantes.
+💻 Estudiante de Ingeniería en Sistemas Computacionales apasionado por el desarrollo web y la arquitectura de software.  
+🚀 Me especializo en construir aplicaciones eficientes con tecnologías modernas, optimizando rendimiento y experiencia de usuario.  
+☁️ Experiencia con plataformas en la nube (AWS, Google Cloud) y bases de datos SQL/NoSQL.
 
 <img src="https://i.ibb.co/x5f5Dvp/mrd3veloper.png" align="center" alt="berkeli header image">
 
